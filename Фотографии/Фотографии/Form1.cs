@@ -41,5 +41,18 @@ namespace Фотографии
         {
             Close();
         }
+
+        private void button4_Click(object sender, EventArgs e)
+        {
+            Form photo = new Form4();
+            photo.Show();
+            photo.FormClosed += new FormClosedEventHandler(form_FormClosed);
+            this.Hide();
+        }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }

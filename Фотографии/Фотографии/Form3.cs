@@ -19,7 +19,14 @@ namespace Фотографии
 
         private void button1_Click(object sender, EventArgs e)
         {
-            Close();
+            Form photo = new Form1();
+            photo.Show();
+            photo.FormClosed += new FormClosedEventHandler(form_FormClosed);
+            this.Hide();
+        }
+        void form_FormClosed(object sender, FormClosedEventArgs e)
+        {
+            this.Close();
         }
     }
 }
