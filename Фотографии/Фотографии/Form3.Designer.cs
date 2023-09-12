@@ -1,6 +1,6 @@
 ﻿namespace Фотографии
 {
-    partial class Form2
+    partial class Form3
     {
         /// <summary>
         /// Required designer variable.
@@ -35,25 +35,25 @@
             // 
             // pictureBox1
             // 
-            this.pictureBox1.Image = global::Фотографии.Properties.Resources.vanya15ago;
-            this.pictureBox1.Location = new System.Drawing.Point(89, 75);
+            this.pictureBox1.Image = global::Фотографии.Properties.Resources.vanya5ago;
+            this.pictureBox1.Location = new System.Drawing.Point(99, 12);
             this.pictureBox1.Name = "pictureBox1";
-            this.pictureBox1.Size = new System.Drawing.Size(624, 288);
+            this.pictureBox1.Size = new System.Drawing.Size(580, 403);
             this.pictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.pictureBox1.TabIndex = 0;
             this.pictureBox1.TabStop = false;
             // 
             // button1
             // 
-            this.button1.Location = new System.Drawing.Point(741, 22);
+            this.button1.Location = new System.Drawing.Point(740, 26);
             this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(42, 33);
+            this.button1.Size = new System.Drawing.Size(46, 44);
             this.button1.TabIndex = 1;
             this.button1.Text = "X";
             this.button1.UseVisualStyleBackColor = true;
             this.button1.Click += new System.EventHandler(this.button1_Click);
             // 
-            // Form2
+            // Form3
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
@@ -62,8 +62,8 @@
             this.Controls.Add(this.button1);
             this.Controls.Add(this.pictureBox1);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
-            this.Name = "Form2";
-            this.Text = "Form2";
+            this.Name = "Form3";
+            this.Text = "Form3";
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
             this.ResumeLayout(false);
 

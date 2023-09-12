@@ -28,5 +28,18 @@ namespace Фотографии
         {
             this.Close();
         }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            Form photo = new Form3();
+            photo.Show();
+            photo.FormClosed += new FormClosedEventHandler(form_FormClosed);
+            this.Hide();
+        }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+            Close();
+        }
     }
 }
