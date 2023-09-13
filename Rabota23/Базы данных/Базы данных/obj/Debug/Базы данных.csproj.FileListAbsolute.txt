@@ -1,0 +1,61 @@
+\\192.168.3.250\Veda\3 курс\ИСП 32-9\Мошков Титенев\МДК 03.01\GitHub\Rabota2\Базы данных\Базы данных\obj\Debug\Базы данных.csproj.AssemblyReference.cache
+\\192.168.3.250\Veda\3 курс\ИСП 32-9\Мошков Титенев\МДК 03.01\GitHub\Rabota2\Базы данных\Базы данных\obj\Debug\Базы данных.csproj.SuggestedBindingRedirects.cache
+\\192.168.3.250\Veda\3 курс\ИСП 32-9\Мошков Титенев\МДК 03.01\GitHub\Rabota2\Базы данных\Базы данных\obj\Debug\Базы_данных.Form1.resources
+\\192.168.3.250\Veda\3 курс\ИСП 32-9\Мошков Титенев\МДК 03.01\GitHub\Rabota2\Базы данных\Базы данных\obj\Debug\Базы_данных.Form2.resources
+\\192.168.3.250\Veda\3 курс\ИСП 32-9\Мошков Титенев\МДК 03.01\GitHub\Rabota2\Базы данных\Базы данных\obj\Debug\Базы_данных.Properties.Resources.resources
+\\192.168.3.250\Veda\3 курс\ИСП 32-9\Мошков Титенев\МДК 03.01\GitHub\Rabota2\Базы данных\Базы данных\obj\Debug\Базы данных.csproj.GenerateResource.cache
+\\192.168.3.250\Veda\3 курс\ИСП 32-9\Мошков Титенев\МДК 03.01\GitHub\Rabota2\Базы данных\Базы данных\obj\Debug\Базы данных.csproj.CoreCompileInputs.cache
+\\192.168.3.250\Veda\3 курс\ИСП 32-9\Мошков Титенев\МДК 03.01\GitHub\Rabota2\Базы данных\Базы данных\bin\Debug\Базы данных.exe.config
+\\192.168.3.250\Veda\3 курс\ИСП 32-9\Мошков Титенев\МДК 03.01\GitHub\Rabota2\Базы данных\Базы данных\bin\Debug\Базы данных.exe
+\\192.168.3.250\Veda\3 курс\ИСП 32-9\Мошков Титенев\МДК 03.01\GitHub\Rabota2\Базы данных\Базы данных\bin\Debug\Базы данных.pdb
+\\192.168.3.250\Veda\3 курс\ИСП 32-9\Мошков Титенев\МДК 03.01\GitHub\Rabota2\Базы данных\Базы данных\obj\Debug\Базы данных.exe
+\\192.168.3.250\Veda\3 курс\ИСП 32-9\Мошков Титенев\МДК 03.01\GitHub\Rabota2\Базы данных\Базы данных\obj\Debug\Базы данных.pdb
+\\192.168.3.250\Veda\3 курс\ИСП 32-9\Мошков Титенев\МДК 03.01\GitHub\Rabota2\Базы данных\Базы данных\bin\Debug\System.Data.SQLite.dll
+\\192.168.3.250\Veda\3 курс\ИСП 32-9\Мошков Титенев\МДК 03.01\GitHub\Rabota2\Базы данных\Базы данных\bin\Debug\System.Data.SQLite.xml
+\\192.168.3.250\Veda\3 курс\ИСП 32-9\Мошков Титенев\МДК 03.01\GitHub\Rabota2\Базы данных\Базы данных\obj\Debug\Базы данных.csproj.CopyComplete
+E:\Rabota2\Базы данных\Базы данных\bin\Debug\Базы данных.exe.config
+E:\Rabota2\Базы данных\Базы данных\bin\Debug\Базы данных.exe
+E:\Rabota2\Базы данных\Базы данных\bin\Debug\Базы данных.pdb
+E:\Rabota2\Базы данных\Базы данных\bin\Debug\System.Data.SQLite.dll
+E:\Rabota2\Базы данных\Базы данных\bin\Debug\System.Data.SQLite.xml
+E:\Rabota2\Базы данных\Базы данных\obj\Debug\Базы данных.csproj.AssemblyReference.cache
+E:\Rabota2\Базы данных\Базы данных\obj\Debug\Базы данных.csproj.SuggestedBindingRedirects.cache
+E:\Rabota2\Базы данных\Базы данных\obj\Debug\Базы_данных.Form1.resources
+E:\Rabota2\Базы данных\Базы данных\obj\Debug\Базы_данных.Form2.resources
+E:\Rabota2\Базы данных\Базы данных\obj\Debug\Базы_данных.Properties.Resources.resources
+E:\Rabota2\Базы данных\Базы данных\obj\Debug\Базы данных.csproj.GenerateResource.cache
+E:\Rabota2\Базы данных\Базы данных\obj\Debug\Базы данных.csproj.CoreCompileInputs.cache
+E:\Rabota2\Базы данных\Базы данных\obj\Debug\Базы данных.csproj.CopyComplete
+E:\Rabota2\Базы данных\Базы данных\obj\Debug\Базы данных.exe
+E:\Rabota2\Базы данных\Базы данных\obj\Debug\Базы данных.pdb
+C:\Users\ваня\Desktop\Rabota2\Базы данных\Базы данных\obj\Debug\Базы данных.csproj.AssemblyReference.cache
+C:\Users\ваня\Desktop\Rabota2\Базы данных\Базы данных\obj\Debug\Базы данных.csproj.SuggestedBindingRedirects.cache
+C:\Users\ваня\Desktop\Rabota2\Базы данных\Базы данных\obj\Debug\Базы_данных.Form1.resources
+C:\Users\ваня\Desktop\Rabota2\Базы данных\Базы данных\obj\Debug\Базы_данных.Form2.resources
+C:\Users\ваня\Desktop\Rabota2\Базы данных\Базы данных\obj\Debug\Базы_данных.Properties.Resources.resources
+C:\Users\ваня\Desktop\Rabota2\Базы данных\Базы данных\obj\Debug\Базы данных.csproj.GenerateResource.cache
+C:\Users\ваня\Desktop\Rabota2\Базы данных\Базы данных\obj\Debug\Базы данных.csproj.CoreCompileInputs.cache
+C:\Users\ваня\Desktop\Rabota2\Базы данных\Базы данных\obj\Debug\Базы данных.exe
+C:\Users\ваня\Desktop\Rabota2\Базы данных\Базы данных\obj\Debug\Базы данных.pdb
+C:\Users\ваня\Desktop\Rabota2\Базы данных\Базы данных\bin\Debug\Базы данных.exe.config
+C:\Users\ваня\Desktop\Rabota2\Базы данных\Базы данных\bin\Debug\Базы данных.exe
+C:\Users\ваня\Desktop\Rabota2\Базы данных\Базы данных\bin\Debug\Базы данных.pdb
+C:\Users\ваня\Desktop\Rabota2\Базы данных\Базы данных\bin\Debug\System.Data.SQLite.dll
+C:\Users\ваня\Desktop\Rabota2\Базы данных\Базы данных\bin\Debug\System.Data.SQLite.xml
+C:\Users\ваня\Desktop\Rabota2\Базы данных\Базы данных\obj\Debug\Базы данных.csproj.CopyComplete
+E:\Rabota23\Базы данных\Базы данных\bin\Debug\Базы данных.exe.config
+E:\Rabota23\Базы данных\Базы данных\bin\Debug\Базы данных.exe
+E:\Rabota23\Базы данных\Базы данных\bin\Debug\Базы данных.pdb
+E:\Rabota23\Базы данных\Базы данных\bin\Debug\System.Data.SQLite.dll
+E:\Rabota23\Базы данных\Базы данных\bin\Debug\System.Data.SQLite.xml
+E:\Rabota23\Базы данных\Базы данных\obj\Debug\Базы данных.csproj.AssemblyReference.cache
+E:\Rabota23\Базы данных\Базы данных\obj\Debug\Базы данных.csproj.SuggestedBindingRedirects.cache
+E:\Rabota23\Базы данных\Базы данных\obj\Debug\Базы_данных.Form1.resources
+E:\Rabota23\Базы данных\Базы данных\obj\Debug\Базы_данных.Form2.resources
+E:\Rabota23\Базы данных\Базы данных\obj\Debug\Базы_данных.Properties.Resources.resources
+E:\Rabota23\Базы данных\Базы данных\obj\Debug\Базы данных.csproj.GenerateResource.cache
+E:\Rabota23\Базы данных\Базы данных\obj\Debug\Базы данных.csproj.CoreCompileInputs.cache
+E:\Rabota23\Базы данных\Базы данных\obj\Debug\Базы данных.csproj.CopyComplete
+E:\Rabota23\Базы данных\Базы данных\obj\Debug\Базы данных.exe
+E:\Rabota23\Базы данных\Базы данных\obj\Debug\Базы данных.pdb
+E:\Rabota23\Базы данных\Базы данных\obj\Debug\Базы_данных.Form3.resources
