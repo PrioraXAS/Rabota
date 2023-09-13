@@ -64,7 +64,10 @@ namespace Базы_данных
 
         private void button1_Click(object sender, EventArgs e)
         {
-            Close();
+            Form users = new Form1();
+            users.Show();
+            users.FormClosed += new FormClosedEventHandler(form_FormClosed);
+            this.Hide();
         }
 
         private void button2_Click(object sender, EventArgs e)
