@@ -16,5 +16,18 @@ namespace Базы_данных
         {
             InitializeComponent();
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            Form users = new Form2();
+            users.Show();
+            users.FormClosed += new FormClosedEventHandler(form_FormClosed);
+            this.Hide();
+        }
+        void form_FormClosed(object sender, FormClosedEventArgs e)
+        {
+            this.Close();
+        }
     }
-}
+    }
+
