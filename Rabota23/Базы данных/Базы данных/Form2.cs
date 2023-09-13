@@ -107,5 +107,13 @@ namespace Базы_данных
             users.FormClosed += new FormClosedEventHandler(form_FormClosed);
             this.Hide();
         }
+
+        private void button6_Click(object sender, EventArgs e)
+        {
+            Form users = new Form8();
+            users.Show();
+            users.FormClosed += new FormClosedEventHandler(form_FormClosed);
+            this.Hide();
+        }
     }
 }
