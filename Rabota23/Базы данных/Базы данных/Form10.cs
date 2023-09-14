@@ -2,21 +2,29 @@
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
+using System.Data.SQLite;
 using System.Drawing;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
-using System.Data.SQLite;
 
 namespace Базы_данных
 {
-    public partial class Form1 : Form
+    public partial class Form10 : Form
     {
         private SQLiteConnection DB;
-        public Form1()
+        public Form10()
         {
             InitializeComponent();
+        }
+
+        private async void Form10_Load(object sender, EventArgs e)
+        {
+            DB = new SQLiteConnection(DataBase.connectionString);
+            await DB.OpenAsync();
+            LoadingDB();
+            dataGridView1.AutoSizeColumnsMode = DataGridViewAutoSizeColumnsMode.Fill;
         }
 
         private void button1_Click(object sender, EventArgs e)
@@ -26,18 +34,9 @@ namespace Базы_данных
             users.FormClosed += new FormClosedEventHandler(form_FormClosed);
             this.Hide();
         }
-
         void form_FormClosed(object sender, FormClosedEventArgs e)
         {
             this.Close();
-        }
-        private async void Form1_Load(object sender, EventArgs e)
-        {
-            DB = new SQLiteConnection(DataBase.connectionString);
-            await DB.OpenAsync();
-            LoadingDB();
-            dataGridView1.AutoSizeColumnsMode = DataGridViewAutoSizeColumnsMode.Fill;
-
         }
         private async void LoadingDB()
         {
@@ -79,11 +78,6 @@ namespace Базы_данных
             users.Show();
             users.FormClosed += new FormClosedEventHandler(form_FormClosed);
             this.Hide();
-        }
-
-        private void button3_Click(object sender, EventArgs e)
-        {
-            BackColor = Color.White;
         }
     }
 }

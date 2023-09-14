@@ -16,7 +16,7 @@ namespace Базы_данных
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Form1());
+            Application.Run(new Form9());
         }
     }    
     static class DataBase // строка подключения к БД
@@ -38,5 +38,5 @@ namespace Базы_данных
             public static string ID = "ID";
             public static string photos = "photos";
     }
-    
+
 }
